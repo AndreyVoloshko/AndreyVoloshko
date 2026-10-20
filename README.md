@@ -1,26 +1,26 @@
-# Andrii Voloshko
+# Voloshko Andrii
 
-Engineering leader with 20+ years spanning individual contributor to engineering leadership roles, focused on distributed systems and cloud infrastructure (AWS).
+Engineering manager by day, engineer by habit.
 
-I work on the problems that show up as organizations scale: architecture that's starting to strain, delivery that's slowing down, infrastructure spend that's outpacing growth. Most of my time is spent on the intersection of system design and team structure — the two tend to break for the same reasons.
+I lead an SRE team at Sabre. Before that I spent over a decade at [Pixellu](https://www.smartalbums.com) going from founding engineer to Staff Engineer to Engineering Manager, building and running a SaaS platform for photographers on AWS. Twenty-odd years in software altogether, most of it somewhere between infrastructure, product, and the people who build it.
 
-## What I focus on
+## What you'll find here
 
-- **Distributed systems & cloud architecture** — designing for scale on AWS without over-building for load that doesn't exist yet.
-- **Scaling engineering organizations** — the transition from a small founding group to multiple teams with clear ownership, without losing velocity.
-- **Cost discipline at scale** — infrastructure architecture that holds up financially, not just technically.
-- **Migrations and modernization** — monolith-to-services, CI/CD adoption, and other changes that have to happen without downtime.
+Small, practical things I needed and didn't find:
 
-## Core Philosophy
+- **[atlassian-sprint-review](https://github.com/AndreyVoloshko/atlassian-sprint-review)** — a Jira Forge app that shows how a sprint actually went: planned vs added vs done, per epic, inside Jira.
+- **[aws-conveyor](https://github.com/AndreyVoloshko/aws-conveyor)** — a serverless task pipeline on AWS: drop JSON into S3, get the result from a queue; SQS, Lambda and Fargate in between.
+- **[petanque-portal](https://github.com/AndreyVoloshko/petanque-portal)** — the web portal of the Ukrainian Pétanque Federation: players, clubs, tournaments, ratings. I work with federations, and they needed software too.
+- **[me](https://github.com/AndreyVoloshko/me)** — my personal site: two static pages and the Terraform that hosts them for a dollar a month.
 
-I believe engineering leadership is the art of managing trade-offs between **speed, quality, and cost**. My approach is rooted in three pillars:
+Mostly Python, TypeScript and Terraform. AWS first, GCP when needed.
 
-- **Empowered Autonomy:** Building high-trust teams that own their outcomes, underpinned by clear leveling, coaching, and career frameworks.
-- **Operational Excellence:** Moving beyond "features" to focus on system health, DORA metrics, and automated, low-risk delivery cycles.
-- **Business Alignment:** Translating technical complexity into executive strategy (OKRs/KPIs) to ensure engineering is a value driver, not a cost center.
+## How I work
 
-## Currently
+Coaching first, fast calls when it matters, done is better than perfect, and no surprises in feedback. The long version is my [Manual of Me](https://voloshko.me/manual.html), written for my team and open to anyone.
 
-Available for consulting on technical strategy, org design, and engineering leadership coaching — remote, based in Poland.
+## Off hours
 
-Reach out if you're working on a scaling problem worth discussing.
+Mountains, pétanque, padel, board games, and almost 40 countries so far. The travel log is on [Instagram](https://www.instagram.com/mysch.worldwide/).
+
+More at [voloshko.me](https://voloshko.me) · [LinkedIn](https://www.linkedin.com/in/andrii-voloshko/)
